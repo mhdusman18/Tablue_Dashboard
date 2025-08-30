@@ -43,6 +43,3 @@ The objective is to provide data-driven insights into the EV market, its growth 
 - **BEVs are emerging as dominant players**, though PHEVs continue to hold market relevance.  
 - Dashboard can serve as a **decision-support tool** for industry stakeholders, researchers, and policymakers.  
 
----
-
-## 📂 Repository Structure  
